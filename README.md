@@ -70,3 +70,9 @@ Başlatma işleminden sonra, bot Discord gateway'ine bağlanacak ve belirttiğin
 - **🔄 Bağlantı Sorunları**: Bağlantı kapandığında bot otomatik olarak yeniden bağlanır.
 - **❗ Webhook Hataları**: Webhook hatası durumunda, hata mesajı konsolda görüntülenecektir.
 - **🛑 API Hataları**: API isteği başarısız olursa, hata detayları ve durum kodu konsolda görüntülenir.
+
+## 📷 Proje Örnekleri 
+![SNİPER](https://github.com/user-attachments/assets/14bfaa6a-fc1e-42b9-bf3d-7e39222e1174)
+
+![BAŞARILI](https://github.com/user-attachments/assets/12af1884-7159-417a-8d02-4b02d4fbe56d)
+
