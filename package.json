@@ -1,0 +1,17 @@
+
+{
+  "name": "swoxy-sniper-v1",
+  "version": "1.0.0",
+  "description": "Discord Url Sniper Swoxycan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "swoxycan",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.7",
+    "ws": "^8.8.1"
+  }
+}
