@@ -20,8 +20,8 @@
 ### 1. 📥 Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullanici-adi/discord-vanity-sniper.git
-cd discord-vanity-sniper
+git clone https://github.com/swoxycan/swoxy-sniper-v1.git
+cd swoxy-sniper-v1
 ```
 
 ### 2. 📦 Gerekli Bağımlılıkları Yükleyin
